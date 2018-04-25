@@ -1,0 +1,433 @@
+
+
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+
+#nav-bar{
+    text-align: center;
+    
+    border-bottom: black 2px solid;
+    
+    border-top:  black 2px solid;
+    
+    background-color: rgb(47, 47, 30)
+    
+    
+} 
+
+a{
+    border-radius: 20px;
+    color: white;
+    font-size: 25px;
+    margin: 100px;
+}
+
+.aHeader{
+    text-align: center;
+    
+    margin 100px;
+    
+    padding-bottom: 150px;
+    
+    font-size: 50px;
+    
+    color: red;
+    
+}
+
+#pInfo{
+    background-color: aqua;
+    
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+
+#aboutMe{
+    color: white;
+    
+    margin-left: 150px;
+    
+    margin-right: 150px;
+    
+    padding: 25px;
+    
+    font-size: 25px;
+}
+
+
+.container{
+    display: flex;
+    
+    color: white;
+    
+    font-size: 15px;
+}
+
+.column{
+    flex: 1;
+    
+    color: white;
+}
+
+.picColumnp4{
+    flex: 1;
+    
+    color: white;
+}
+
+body{
+    background-color:  rgb(89, 89, 89);
+    
+    margin: 0;
+    
+    padding:0;
+}
+
+h1 {
+    color: white;
+}
+
+#appProject{
+    color: white;
+    
+    margin-left: 150px;
+    
+    margin-right: 150px;
+    
+    padding: 25px;
+    
+    font-size: 25px;
+}
+
+#col-1 {
+    flex: 1;
+    
+    font-size: 20px;
+    
+    padding: 20px;
+}
+
+#col-2{
+    flex: 2;
+}
+
+
+
+#mePic {
+    object-fit: cover;
+    
+    text-align: center;
+}
+
+
+
+#appPic{
+    object-fit: cover;
+    
+    text-align: center;
+}
+
+#col-1p2 {
+    flex: 1;
+    
+    font-size: 20px;
+    
+    padding: 20px;
+    
+    box-shadow: 0 4px 20px 10px rgb(38, 38, 38);
+    transition: 0.3s;
+    width: 40%;
+}
+
+#col-2p2{
+    flex: 2;
+    
+    font-size: 20px;
+    
+    padding: 20px;
+    
+    box-shadow: 0 4px 20px 5px rgb(38, 38, 115);
+    transition: 0.3s;
+    width: 40%;
+}
+
+#col-3p2{
+    
+   flex: 1;
+    
+    font-size: 20px;
+    
+    padding: 20px;
+    
+    box-shadow: 0 4px 20px 10px rgb(38, 38, 38);
+    transition: 0.3s;
+    width: 40%;
+    
+}
+
+#col-1p2:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+#col-2p2:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+#col-3p2:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+#col-middlep3{
+    padding: 75px;
+    
+    font-size: 20px;
+    
+    flex: 2;
+    
+    box-shadow: 0 4px 20px 10px rgb(38, 38, 38);
+    transition: 0.3s;
+    width: 40%;
+}
+
+
+#col-Essayp3{
+    margin: 100px;
+    
+    font-size: 20px;
+    
+    flex: 1;
+    
+    box-shadow: 0 4px 20px 10px rgb(38, 38, 38);
+    transition: 0.3s;
+    width: 40%;
+}
+
+#col-Lastp3{
+     padding: 75px;
+    
+    font-size: 20px;
+    
+    flex: 2;
+    
+    box-shadow: 0 4px 20px 10px rgb(38, 38, 38);
+    transition: 0.3s;
+    width: 40%;
+}
+
+
+#col-middlep3:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+#col-Essayp3:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+#col-Lastp3:hover{
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+#col-middlep4{
+    padding: 75px;
+    
+    font-size: 20px;
+    
+    flex: 2;
+    
+    box-shadow: 0 1px 1px 1px rgb(38, 38, 38);
+    transition: 0.3s;
+    width: 40%;
+    
+}
+
+#col-Lastp4{
+    padding: 75px;
+    
+    font-size: 20px;
+    
+    
+    box-shadow: 0 1px 1px 1px rgb(38, 38, 38);
+    transition: 0.3s;
+    width: 40%;
+}
+
+#col-Last2p4{
+     padding: 75px;
+    
+    font-size: 20px;
+    
+    flex: 2;
+    
+    box-shadow: 0 1px 1px 1px rgb(38, 38, 38);
+    transition: 0.3s;
+    width: 40%;
+}
+
+
+
+.col-allp3{
+    flex: 1;
+}
+
+#p2Info{
+    
+}
+
+#col-inside2p2{
+    text-align: center;
+    
+    
+    font-size: 30px;
+    
+    box-shadow: 0 2px 5px 5px rgb(38, 38, 38);
+    
+    transition: 0.3s;
+    
+    margin-top: 100px;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+#fWriter {
+     color: white;
+    
+    margin-left: 150px;
+    
+    margin-right: 150px;
+    
+    padding: 25px;
+    
+    font-size: 25px;
+}
+
+#eActivity{
+     color: white;
+    
+    margin-left: 150px;
+    
+    margin-right: 150px;
+    
+    padding: 25px;
+    
+    font-size: 25px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    
+}
+
+li {
+    float: left;
+    padding: 15px;
+}
+
+li a {
+   display: inline;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+#indexDiv{
+    padding: 270px;
+    
+    background-color: darkgray;
+    
+    background-image: url(images/person.jpeg);
+    
+    background-repeat: repeat-x;
+    
+    background-position: center;
+    
+    opacity: 0.7;
+    
+}
+
+#pagetwoDiv{
+     padding: 270px;
+    
+    background-color: darkgray;
+    
+    background-image: url(images/mountainScape.jpg);
+    
+    background-repeat: repeat-x;
+    
+    background-position: center;
+    
+    opacity: 0.8;
+}
+
+#pagethreeDiv{
+    padding: 270px;
+    
+    background-color: darkgray;
+    
+    background-image: url(images/lake.jpg);
+    
+    background-repeat: repeat-x;
+    
+    background-position: center;
+    
+    opacity: 0.8;
+}
+
+#pagefourDiv{
+    padding: 270px;
+    
+    background-color: darkgray;
+    
+    background-image: url(images/country.jpg);
+    
+    background-repeat: repeat-x;
+    
+    background-position: center;
+    
+    opacity: 0.8;
+}
+
+#appImage{
+    object-fit: cover;
+}
+
+#appImage2{
+    object-fit: cover;
+}
+
+#crossCountry{
+    object-fit: cover;
+}
+
+#crossCountry2{
+    object-fit: cover;
+}
+
+
+
+
+
+
