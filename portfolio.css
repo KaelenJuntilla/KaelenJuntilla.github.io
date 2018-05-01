@@ -20,8 +20,9 @@ a{
     border-radius: 20px;
     color: white;
     font-size: 25px;
-    margin: 100px;
+    margin: 40px;
 }
+
 
 .aHeader{
     text-align: center;
@@ -254,17 +255,18 @@ h1 {
 }
 
 #col-Last2p4{
-     padding: 75px;
+     padding: 125px;
     
     font-size: 20px;
     
-    flex: 2;
+    object-fit: cover;
+    
+    text-align: center;
     
     box-shadow: 0 1px 1px 1px rgb(38, 38, 38);
     transition: 0.3s;
     width: 40%;
 }
-
 
 
 .col-allp3{
@@ -287,6 +289,10 @@ h1 {
     
     margin-top: 100px;
     
+    
+}
+
+#col-gamep2{
     
 }
 
